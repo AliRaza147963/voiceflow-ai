@@ -9,21 +9,21 @@ export const features = [
 // TESTIMONIALS
 export const testimonials = [
   {
-    name: "Ali Khan",
+    name: "James",
     role: "Frontend Developer",
     text: "This platform saved us months of work!",
     stars: 5,
     color: "#6366f1"
   },
   {
-    name: "Ahmed Raza",
+    name: "John",
     role: "Startup Founder",
     text: "Best voice AI API I've used.",
     stars: 5,
     color: "#10b981"
   },
   {
-    name: "Sara Malik",
+    name: "William",
     role: "Product Manager",
     text: "Super easy and powerful.",
     stars: 4,
